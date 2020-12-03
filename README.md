@@ -1,10 +1,7 @@
-<img src="https://avatars1.githubusercontent.com/u/23097118?s=460&u=dd564bdc891d907f7ee8be0e1da33b8cd31b053f&v=4" style="display:absolute; opacity:0.4;" />
-
-
 [![Jecosine's github stats](https://github-readme-stats.vercel.app/api?username=jecosine&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecosine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecosine&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <pre>
 *.........**.=@@`...............@@@*@^.....=@`@@@.......**]]*......O@\..=@^............
