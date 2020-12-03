@@ -1,3 +1,5 @@
+[![Jecosine's github stats](https://github-readme-jtf5y3z0d.vercel.app/api?username=jecosine&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 <pre>
 *.........**.=@@`...............@@@*@^.....=@`@@@.......**]]*......O@\..=@^............
 ^.........**.=@@^=@^..*`*[[[.**.O@@@@.......\@@\@O..*`.........,[[=@@O..@@^............
@@ -21,5 +23,3 @@ o@@...=^.,@OooO@@@O]..................................................../@^.**,o
 @@^..,/..OOoo=OoO@@@@@@\]`........................................,]/@@@@^.**=O`.....=/
 </pre>
 
-[![Jecosine's github stats](https://github-readme.jecosine.vercel.app/api?username=jecosine&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme.jecosine.vercel.app/api/top-langs/?username=jecosine&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
