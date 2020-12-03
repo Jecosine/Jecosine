@@ -1,4 +1,9 @@
-[![Jecosine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jecosine)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%; height: 100px;background: black;"></div>
+
+
+[![Jecosine's github stats](https://github-readme-stats.vercel.app/api?username=jecosine&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecosine)](https://github.com/anuraghazra/github-readme-stats)
+
 <pre>
 *.........**.=@@`...............@@@*@^.....=@`@@@.......**]]*......O@\..=@^............
 ^.........**.=@@^=@^..*`*[[[.**.O@@@@.......\@@\@O..*`.........,[[=@@O..@@^............
