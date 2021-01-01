@@ -1,4 +1,4 @@
-[![Jecosine's github stats](https://github-readme-jtf5y3z0d.vercel.app/api?username=jecosine&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&custom_title=sineちゃんのデータ&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Jecosine's github stats](https://github-readme-jtf5y3z0d.vercel.app/api?username=jecosine&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&custom_title=sineちゃんのデータ&hide_border=true&cache_seconds=86400)](https://github.com/Jecosine)
 
 <pre>
 *.........**.=@@`...............@@@*@^.....=@`@@@.......**]]*......O@\..=@^............
