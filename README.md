@@ -9,7 +9,7 @@
 <details open>
 <summary>Code times</summary>
 
-[![Jecosine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JecosineMoc&layout=compact)](https://github.com/Jecosine)]
+[![Jecosine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JecosineMoc&layout=compact)](https://github.com/Jecosine)
 
 <details> 
 <summary>
