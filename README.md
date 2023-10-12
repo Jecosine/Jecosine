@@ -8,8 +8,7 @@
 
 <details open>
 <summary>Code times</summary>
-
-[![Jecosine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JecosineMoc&layout=compact)](https://github.com/Jecosine)
+[![wakatime](https://wakatime.com/badge/user/05d00518-af40-45b9-9e35-6921eec736c2.svg)](https://wakatime.com/@05d00518-af40-45b9-9e35-6921eec736c2)
 
 <details> 
 <summary>
